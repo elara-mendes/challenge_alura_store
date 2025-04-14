@@ -35,9 +35,10 @@ Foram exploradas as seguintes métricas de cada loja:
 
 Para facilitar o entendimento dos dados, foram criados pelo menos **3 tipos de gráficos diferentes**, incluindo:
 
-- Gráfico de barras (comparando faturamento e avaliações)
-- Gráfico de pizza (representando participação por categoria)
-- Gráfico de dispersão ou linha (para padrões de vendas)
+- Gráfico de pizza (comparando faturamento e avaliações)
+- Gráfico de barras (representando participação por categoria)
+- Gráfico de linha (para a mediana do frete)
+- Gráfico de dispersão e calor (para verificar padrões de locais)
 
 ---
 
